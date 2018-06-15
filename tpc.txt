@@ -1,0 +1,5 @@
+ver como se faz parcials com handlebars
+
+definir o que se quer extraír do darksky
+
+pensar na estrutura da nossa página e no que vai ficar do lado do cliente e do lado do servidor
